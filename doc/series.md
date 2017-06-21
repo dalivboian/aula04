@@ -1,9 +1,9 @@
 # Series preferidas da equipe
 
-## Membro 1
+## Lucas Segers Fabro
 
-* Serie A
-* Serie B
-* Serie C
-* Serie D
+* House of cards
+* Gotham
+* Blacklist
+* OA
 
